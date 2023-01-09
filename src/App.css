@@ -1,9 +1,8 @@
 .quote {
-    border-style: ridge;
-    padding: 10px;
-    border-width: 0.5rem;
-    position: absolute;
-    font-family: "Playfair Display";
-    top: 300px;
-    left: 320px;
+    display: flex;
+    height: 97vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border: dashed 2px;
 }
